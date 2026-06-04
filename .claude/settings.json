@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Write(Deadlines/**)",
+      "Write(Reports/**)",
+      "Write(Committees/**)",
+      "Write(Team/**)",
+      "Write(Context/**)",
+      "Write(Data/**)",
+      "WebSearch",
+      "WebFetch(*)"
+    ],
+    "ask": [
+      "Bash(*)"
+    ]
+  }
+}

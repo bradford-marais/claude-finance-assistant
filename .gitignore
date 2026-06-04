@@ -1,0 +1,31 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Local Claude state
+.claude/session-data/
+.claude/todos/
+.claude/*.local.json
+
+# Real company data — never commit. Keep templates/READMEs, ignore the rest.
+Data/inbox/*
+Reports/monthly/*
+Committees/**/*.md
+Deadlines/tracker.md
+!**/README.md
+!**/_template.md
+!Deadlines/monthly-close.md
+!**/.gitkeep
+
+# Spreadsheets / exports (contain real numbers)
+*.xlsx
+*.xls
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

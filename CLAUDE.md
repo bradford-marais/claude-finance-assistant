@@ -40,6 +40,7 @@ Data/         inbox/ for raw exports the reports build from
 - `/deadlines` — what's due (statutory + internal), flag anything overdue
 - `/actions` — open committee action points by owner + due date
 - `/team` — team accountability: who owes what, chase drafts ready
+- `/grill-me` — pressure-test a decision (a hire, a budget, a systems change) one question at a time
 
 ## How the platform affects things
 

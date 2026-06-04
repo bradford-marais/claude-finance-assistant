@@ -29,6 +29,7 @@ Data/         inbox/ for raw exports the reports build from
 | `/deadlines` | What's due — statutory (SARS/CIPC) + internal — overdue flagged |
 | `/actions` | Open committee action points by owner + due date, with chase drafts |
 | `/team` | Team accountability — who owes what, chase drafts ready |
+| `/grill-me` | Pressure-test a decision (hire, budget, systems change) one question at a time |
 
 The SA statutory calendar (VAT201, EMP201/PAYE, provisional tax IRP6, EMP501, CIPC annual return) is **pre-loaded** in `Context/deadlines-sa.md` — `/setup` tunes it to her year-end and VAT/PAYE status.
 
